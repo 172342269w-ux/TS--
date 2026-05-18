@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npx tsc --init)",
+      "PowerShell(npx tsc)"
+    ]
+  }
+}
